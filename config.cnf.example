@@ -1,0 +1,5 @@
+[client]
+
+user = "usuario_bd"
+password = "senha_bd"
+host = "localhost"
